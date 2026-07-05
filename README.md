@@ -1,4 +1,4 @@
-### 💬 Community
+ ### 💬 Community
 
 Join our Telegram group to discuss extensions, request features, or report issues:  
 
