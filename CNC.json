@@ -4,6 +4,6 @@
   "description": "All Language Contents",
   "manifestVersion": 1,
   "pluginLists": [
-    "https://raw.githubusercontent.com/NivinCNC/CNCVerse-Cloud-Stream-Extension/builds/plugins.json"
+    "https://raw.githubusercontent.com/shihabsahin43-beep/M3UPlayer/refs/heads/builds/plugins.json"
   ]
 }
