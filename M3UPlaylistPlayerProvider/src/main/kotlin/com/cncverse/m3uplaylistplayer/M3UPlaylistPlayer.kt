@@ -37,8 +37,8 @@ class M3UPlaylistPlayer(
 ) : MainAPI() {
     
     override var lang = "en"
-    override var mainUrl = customMainUrl
-    override var name = customName
+    override var mainUrl = https://bdix.mdshahinurislammdsaifulislam1.workers.dev/
+    override var name = SANI BDIX
     override val hasMainPage = true
     override val hasChromecastSupport = true
     override val supportedTypes = setOf(TvType.Live)
